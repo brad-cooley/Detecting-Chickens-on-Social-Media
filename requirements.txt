@@ -1,0 +1,12 @@
+numpy
+jupyter
+matplotlib
+Pillow
+sklearn
+tensorflow
+torch
+torchvision
+pandas
+timm
+split_folders
+seaborn
